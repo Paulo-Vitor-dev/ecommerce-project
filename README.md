@@ -127,7 +127,7 @@ Feito por Paulo Vitor 🚀
 ### 🌐 Redes
 
 * GitHub: [https://github.com/Paulo-Vitor-Dev](https://github.com/Paulo-Vitor-Dev)
-* LinkedIn: [https://www.linkedin.com](www.linkedin.com/in/paulovitor-dev-fullstack)
+* LinkedIn: [www.linkedin.com/in/paulovitor-dev-fullstack](www.linkedin.com/in/paulovitor-dev-fullstack)
 
 ---
 
